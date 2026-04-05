@@ -2,6 +2,11 @@ import py7zr
 import os
 import glob
 
+# Title: Extract.py
+# Purpose: This is a script which takes in the raw SPORTVU 
+#          tracking data and converts each file into a JSON
+
+
 # Paths
 raw_path = "data/raw/2016.NBA.Raw.SportVU.Game.Logs"
 extracted_path = "data/extracted"
