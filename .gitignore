@@ -7,6 +7,7 @@ NBA-Player-Movements/
 # Data files
 data/raw/
 data/extracted/
+data/parsed/
 
 # Python
 __pycache__/
