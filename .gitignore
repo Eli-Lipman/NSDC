@@ -1,0 +1,16 @@
+# Environments
+.venv/
+
+# Cloned repo
+NBA-Player-Movements/
+
+# Data files
+data/raw/
+data/extracted/
+
+# Python
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
