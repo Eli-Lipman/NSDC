@@ -1,0 +1,6 @@
+pandas
+numpy
+py7zr
+pyarrow
+requests
+jupyter
